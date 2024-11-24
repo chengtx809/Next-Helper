@@ -1,9 +1,7 @@
+# Next-Helper
+## 文档正在施工中...
 
-# oaifree-helper
-
-## 支持一键换号
-![](https://linux.do/uploads/default/original/3X/2/9/292d7de5a3f9ec6e3ef0f83926851efcb0cbaf73.png)
-使用
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kylelv2000/oaifree-helper)一键部署
-
-请参考[https://github.com/jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper)
+# 鸣谢：
+#### 首先，致敬始皇，致敬所有热佬，没有他们的项目和服务就没有这个项目！
+#### 感谢原作者[@jyx04](https://github.com/jyx04/oaifree-helper)！
+#### 感谢[@kylelv2000](https://github.com/kylelv2000)添加的换号功能！
